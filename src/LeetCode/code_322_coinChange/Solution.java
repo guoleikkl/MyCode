@@ -22,7 +22,7 @@ import java.util.Arrays;
 /*
  * 动态规划
  * 看评论有思路的
- *
+ * 自下而上的动态规划
  * dp(i) = dp(i-coin)+1
  */
 public class Solution {

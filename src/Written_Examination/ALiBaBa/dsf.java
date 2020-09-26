@@ -1,4 +1,4 @@
-package Written_Examination.alibaba;
+package Written_Examination.ALiBaBa;
 
 public class dsf {
 
@@ -10,7 +10,6 @@ public class dsf {
         System.out.println(i);
         int j = Integer.parseInt(String.valueOf(ch));
         System.out.println(j);
-
 
     }
 

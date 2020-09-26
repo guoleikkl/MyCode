@@ -1,4 +1,4 @@
-package Written_Examination.alibaba;
+package Written_Examination.ALiBaBa;
 
 import java.util.Scanner;
 
